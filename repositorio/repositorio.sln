@@ -8,6 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95B20E35-EE6A-4879-BC8D-09EB9CBE18B7}"
 	ProjectSection(SolutionItems) = preProject
 		E:\Scripts\CamaraControl.cs = E:\Scripts\CamaraControl.cs
+		E:\Scripts\Destructor.cs = E:\Scripts\Destructor.cs
+		E:\Scripts\Escenas.cs = E:\Scripts\Escenas.cs
+		E:\Scripts\Platformer2DUserControl.cs = E:\Scripts\Platformer2DUserControl.cs
+		E:\Scripts\PlatformerCharacter2D.cs = E:\Scripts\PlatformerCharacter2D.cs
 	EndProjectSection
 EndProject
 Global
